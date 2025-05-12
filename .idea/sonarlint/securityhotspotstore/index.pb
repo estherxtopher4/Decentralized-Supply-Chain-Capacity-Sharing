@@ -7,3 +7,5 @@ R
 "contracts/entity-verification.clar,6/6/660a74c2729ef5ed0792e040998f714055016c6e
 T
 $contracts/resource-registration.clar,3/6/36af72c6e1cc7de82d7edf2117f4f32f5a7e3a3c
+I
+contracts/settlement.clar,5/d/5dfc94e4b5c277d99517176e1947f90e0fab3471
