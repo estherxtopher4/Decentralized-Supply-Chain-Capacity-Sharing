@@ -9,3 +9,5 @@ T
 $contracts/resource-registration.clar,3/6/36af72c6e1cc7de82d7edf2117f4f32f5a7e3a3c
 I
 contracts/settlement.clar,5/d/5dfc94e4b5c277d99517176e1947f90e0fab3471
+S
+#contracts/utilization-tracking.clar,4/a/4a45878fa0c7b918ac9f6b88bfbf1046fbcd1a5e
